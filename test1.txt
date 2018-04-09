@@ -1,4 +1,4 @@
-Let's make a Game!
+Let's make a game!
   name:Toast Clicker
   by:Superspeeder
   desc:Click tosters to get toast
