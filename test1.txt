@@ -6,7 +6,7 @@ Let's make a game!
 Resources
 	*toast|toasts
 		name:Piece of Toast|Pieces of Toast
-		desc:Perfectly toasted toast
+		desc:Perfectly toasted piece of toast
 
 
     
