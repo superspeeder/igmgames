@@ -1,0 +1,12 @@
+Let's Make a Game!
+  name:Toast Clicker
+  by:Superspeeder
+  desc:Click tosters to get toast
+
+Resources
+  *toast|toasts
+    name:Piece of Toast|Pieces of Toast
+    desc:Perfectly toasted toast
+
+
+    
