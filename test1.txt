@@ -1,6 +1,6 @@
 Let's make a game!
   name:Toast Clicker
-  by:Superspeeder
+  author:Superspeeder
   desc:Click tosters to get toast
 
 Resources
